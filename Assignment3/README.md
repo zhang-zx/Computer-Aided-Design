@@ -1,6 +1,6 @@
 <center>  <h1> CAD Assignment 3 </center>
 
-<center> <b> 张知行 2015012018 </center>
+
 
 **实现功能:**
 

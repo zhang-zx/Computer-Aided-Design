@@ -1,7 +1,5 @@
 <center>  <h1> CAD Assignment 5 </center>
 
-<center> <b> 张知行 2015012018 </center>
-
 **实现功能:**
 
 1. 使用25(5×5)个控制点

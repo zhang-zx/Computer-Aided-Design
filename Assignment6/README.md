@@ -1,7 +1,5 @@
 <center>  <h1> CAD Assignment 6 </center>
 
-<center> <b> 张知行 2015012018 </center>
-
 
 
 ![PacMan](PacMan.PNG)

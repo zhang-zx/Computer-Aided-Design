@@ -1,7 +1,5 @@
 <center>  <h1> CAD Assignment 7 </center>
 
-<center> <b> 张知行 2015012018 </center>
-
 
 
 ## 光照效果
