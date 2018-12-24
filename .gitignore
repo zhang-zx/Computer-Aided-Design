@@ -6,7 +6,9 @@
 *.lo
 *.o
 *.obj
-
+*.zip
+*.mov
+*CMakeFiles*
 # Precompiled Headers
 *.gch
 *.pch
